@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "language",
+      "content": "java language"
+    },
+    {
+      "title": "Adding notes to  json ",
+      "content": "hey there my name is krishna\n",
+      "id": 2
+    }
+  ]
+}
